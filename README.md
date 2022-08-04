@@ -12,9 +12,9 @@
 - React
 - webpack
 
-## Live Demo (comming soon)
+## Live Demo 
 
-[Live Demo Link](comming soon)
+[Live Demo Link]( https://rmjspecial.github.io/Maths-Magician/)
 
 
 ## Getting Started
