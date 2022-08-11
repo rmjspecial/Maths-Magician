@@ -4,10 +4,10 @@ import {
   Route,
 } from 'react-router-dom';
 
-import Calculator from './components/Calculator';
-import Quote from './components/pages/Quote';
-import Home from './components/pages/Home';
-import Nav from './components/pages/Nav';
+import Calculator from './components/Calculator.js';
+import Quote from './components/pages/Quote.js';
+import Home from './components/pages/Home.js';
+import Nav from './components/pages/Nav.js';
 
 function App() {
   return (
