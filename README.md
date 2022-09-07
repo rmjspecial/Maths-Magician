@@ -16,11 +16,7 @@
 
 [Netlify](https://6318a1d5aa59b70d4375e739--voluble-frangipane-d5324a.netlify.app/)
 
-
 ## Getting Started
-
-
-
 
 To get a local copy up and running follow these simple example steps.
 
